@@ -8,9 +8,6 @@ compatibility_date = "2023-05-26"
 pattern = "indo.kozelvpn.filegear-sg.me"
 custom_domain = true
 [[routes]]
-pattern = "englishtest-stage-7.duolingo.com.indo.kozelvpn.filegear-sg.me"
-custom_domain = true
-[[routes]]
 pattern = "englishtest-stage-7.duolingo.com.indo.kozelvpn.filegear-sg.me
 custom_domain = true
 [[routes]]
@@ -22,19 +19,10 @@ custom_domain = true
 [[routes]]
 pattern = "englishtest-stage-7.duolingo.com.indo.kozelvpn.filegear-sg.me"
 custom_domain = true
-[[routes]]
-pattern = "englishtest-stage-7.duolingo.com.indo.kozelvpn.filegear-sg.me"
-custom_domain = true
-[[routes]]
-pattern = "englishtest-stage-7.duolingo.com.indo.kozelvpn.filegear-sg.me"
-custom_domain = true
-[[routes]]
-pattern = "englishtest-stage-7.duolingo.com.indo.kozelvpn.filegear-sg.me"
-
 # UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
 # PROXYIP = "1.2.3.4"
 # DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "5b1bb304-1124-484c-a1f4-dfd0c65d7ead"
+UUID = "6199a77e-0b4c-4954-af1d-f7666d1a59a2"
